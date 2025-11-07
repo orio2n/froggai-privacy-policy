@@ -55,4 +55,4 @@ Nous pouvons mettre à jour cette politique de confidentialité de temps à autr
 
 ### 7. Nous contacter
 
-Si vous avez des questions concernant cette politique de confidentialité, veuillez nous contacter à : **orionextension@gmail.com**
+Si vous avez des questions concernant cette politique de confidentialité, veuillez nous contacter à : **orion.extensions@gmail.com**
